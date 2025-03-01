@@ -1,0 +1,74 @@
+[
+    {
+      "title": "Optimizing LLMs for Low-Resource Languages",
+      "category": "ML Engineering",
+      "image": "./assets/images/bert.png",
+      "link": "https://github.com/karkidilochan/NER-nepali",
+      "year": "2024"
+    },
+
+    {
+      "title": "Differentially Private Image Classification",
+      "category": "ML Engineering",
+      "image": "./assets/images/dp.png",
+      "link": "https://github.com/karkidilochan/DifferentiallyPrivateImageClassification",
+      "year": "2024"
+    },
+    {
+      "title": "Adversarial RL for Checkers",
+      "category": "ML Engineering",
+      "image": "./assets/images/checkers.jpg",
+      "link": "https://github.com/karkidilochan/AdversarialRL-Checkers",
+      "year": "2024"
+    },
+    {
+        "title": "EEG Assessment System",
+        "category": "ML Engineering",
+        "image": "./assets/images/eeg.webp",
+        "link": "https://github.com/karkidilochan/EEG-assessment-system",
+        "year": "2021"
+      },
+    {
+      "title": "Low-Latency AQI Processing with Apache Storm",
+      "category": "Data Engineering",
+      "image": "./assets/images/storm.webp",
+      "link": "https://github.com/karkidilochan/Realtime-AQI-Storm",
+      "year": "2024"
+    },
+    {
+      "title": "Self-Correcting Distributed File System",
+      "category": "Backend Development",
+      "image": "./assets/images/Working-of-DFS.webp",
+      "link": "https://github.com/karkidilochan/Distributed-FileSystem",
+      "year": "2024"
+    },
+    {
+      "title": "Chord P2P Storage System",
+      "category": "Backend Development",
+      "image": "./assets/images/chord-p2p-5.png",
+      "link": "https://github.com/karkidilochan/Chord-P2P-Storage-System",
+      "year": "2024"
+    },
+    {
+      "title": "Distributed Mining Task Load Balancer",
+      "category": "Backend Development",
+      "image": "./assets/images/images.png",
+      "link": "https://github.com/karkidilochan/Mining-with-thread-pools",
+      "year": "2024"
+    },
+    {
+      "title": "Mid-Market Currency Converter API",
+      "category": "Backend Development",
+      "image": "./assets/images/fastapi.avif",
+      "link": "https://github.com/karkidilochan/mid-market-currency-converter",
+      "year": "2022"
+    },
+    {
+      "title": "SDN Comparison with Legacy Networks",
+      "category": "Backend Development",
+      "image": "./assets/images/sdn.jpg",
+      "link": "https://github.com/karkidilochan/SDN-Comparison-with-Legacy",
+      "year": "2020"
+    }
+  ]
+  
